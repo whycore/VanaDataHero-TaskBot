@@ -1,5 +1,4 @@
-# Tutorial: Running Vana Auto Complete Task by whycore
-
+# Tutorial: Running Vana Auto Complete Task 
 ## Prerequisites
 - Python (latest version)
 - Git
